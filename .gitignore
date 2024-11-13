@@ -1,0 +1,4 @@
+bin
+*.vim
+*.o
+.clang-format
