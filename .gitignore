@@ -3,3 +3,4 @@ bin
 *.o
 .clang-format
 sandbox
+ostep-projects
