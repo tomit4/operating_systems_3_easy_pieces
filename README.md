@@ -28,8 +28,9 @@ authors for their amazing contribution.
 
 **Left Off:**
 
-Lecture: OS - 2 | Processes |
+Lecture: OS - 3 | CPU Scheduling (do not watch until you've read through chapter
+7)
 
-Book: Page 59
+Book: Page 71
 
 Homework: Process Intro Run process-run.py (HW-CPU-Intro.tgz)
