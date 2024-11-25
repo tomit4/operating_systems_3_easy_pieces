@@ -5,6 +5,9 @@
 
 ## Homework (Simulation)
 
+**NOTE:** This is filled in by the `process-run.py` homework. You have more or
+less fullfilled this part.
+
 This simulation homework focuses on `fork.py`, a simple process creation
 simulator that shows how processes are related in a single "familial" tree. Read
 the relevant README for details about how to run the simulator.
@@ -46,6 +49,8 @@ the relevant README for details about how to run the simulator.
    into this question.
 
 ### Homework (Code)
+
+**NOTE:** Start back up here.
 
 In this homework, you are going to gain some familiarity with the process
 management APIs about which you just read. Don't worry - it's even more fun than
